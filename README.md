@@ -1,7 +1,7 @@
 # Object-level Attention for Aesthetic Rating Distribution Prediction
 
 Paper: 
-**Object-level Attention for Aesthetic Rating Distribution Prediction
+Object-level Attention for Aesthetic Rating Distribution Prediction
 
 by Jingwen Hou, Sheng Yang, Weisi Lin. 
 Published at ACM MM 2020 in Seattle, USA.
